@@ -3,7 +3,7 @@ entries:
   talk-bridge:
   - apiVersion: v2
     appVersion: 0.15.0
-    created: "2024-04-19T01:07:23.3465149Z"
+    created: "2024-04-19T18:48:34.92365088Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -23,7 +23,7 @@ entries:
       repository: https://localstack.github.io/helm-charts
       version: 0.4.x
     description: A Helm Chart for talk bridge
-    digest: 1c94d1c7bcb0f6dbbf86f84a8308e20ff9193605ffe3a808e6b01590b23a3910
+    digest: 0f50fb68a36ecf246aae3a13f846c75781555643b1a5ea355905ac04df2d29b8
     home: https://novu.co/
     keywords:
     - talk-bridge
@@ -34,4 +34,4 @@ entries:
     urls:
     - talk-bridge-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-19T01:07:23.319288338Z"
+generated: "2024-04-19T18:48:34.882932662Z"
