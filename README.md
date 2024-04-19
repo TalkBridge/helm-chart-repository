@@ -1,3 +1,2 @@
 # Description
-Private helm Repository for the organization
-check index.yaml for latests releases
+Private helm Repository for the organization. Check index.yaml for latests releases
