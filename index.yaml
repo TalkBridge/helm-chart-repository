@@ -3,7 +3,7 @@ entries:
   talk-bridge:
   - apiVersion: v2
     appVersion: 0.15.0
-    created: "2024-04-19T00:47:30.122981268Z"
+    created: "2024-04-19T00:56:47.48423134Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -22,16 +22,16 @@ entries:
       name: localstack
       repository: https://localstack.github.io/helm-charts
       version: 0.4.x
-    description: A Helm Chart for novu
-    digest: e3fe64688a420a8e024aa8183021933042edb5508ccb7f49668bcfaaca72e387
+    description: A Helm Chart for talk bridge
+    digest: cd644c8ed72a98ddb6ea29144a3d77db96e777b5787687843d948e14b69fbff9
     home: https://novu.co/
     keywords:
-    - novu
+    - talk-bridge
     - notification framework
     name: talk-bridge
     sources:
-    - https://github.com/novuhq/novu/tree/next/docker/kubernetes/helm
+    - https://github.com/TalkBridge/helm/
     urls:
     - talk-bridge-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-19T00:47:30.10351657Z"
+generated: "2024-04-19T00:56:47.461724694Z"
